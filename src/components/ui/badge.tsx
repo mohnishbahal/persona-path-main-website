@@ -1,0 +1,1 @@
+// Keep badge.tsx lowercase to match imports
